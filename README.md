@@ -1,5 +1,5 @@
  # Guía 5
-Bienvenido a la rama guia_5. Este es un proyecto de ejemplo.
+Bienvenido a la rama guia_5. 
 
 ## Documento con capturas
 Puede encontrar más detalles en el siguiente archivo:
