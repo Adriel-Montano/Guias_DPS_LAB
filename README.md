@@ -1,16 +1,6 @@
-# Guías de Diseño y Programación de Software Multiplataforma (DPS)
+ # Guía 8
+Bienvenido a la rama guia_8. 
 
-Este repositorio contiene las guías de la materia Diseño y Programación de Software Multiplataforma (DPS).
-
-## Estructura del repositorio
-
-Las guías están divididas por ramas, donde cada rama constituye una guía independiente.
-
-## Instrucciones
-
--Para acceder a una guía en particular, cambia a la rama correspondiente.
-
-#### Autor
-
-Adriel Caleb Montano Lemus  Carnet: ML232940
-
+## Documento con capturas
+Puede encontrar más detalles en el siguiente archivo:
+[guia5ML239240.docx](https://github.com/user-attachments/files/19530302/guia5ML239240.docx)
